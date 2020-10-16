@@ -1,0 +1,24 @@
+button,
+div,
+form,
+input {
+	margin: 10px;
+}
+
+.movie {
+    background-color: #ffffff;
+	border: none;
+	color: #858585;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: justify;
+	font-size: 15px;
+	position: relative;
+	flex-wrap: wrap;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+    border-radius: 2px;
+    color: rgb(241, 241, 241);
+	background-color: rgb(149, 149, 149);
+}
